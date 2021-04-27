@@ -16,7 +16,7 @@ Let me Present you Project Development, the solution to all the times you want t
 
 ## Project Lead
 
-<!-- |                                                                       | -->
+|                                                                       |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                      **[HARIHARAN B P](https://www.linkedin.com/in/mugunthanraju29/)**                                                                                       |
 | <a href="https://www.linkedin.com/in/hariharan-b-p-5449a3196/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
